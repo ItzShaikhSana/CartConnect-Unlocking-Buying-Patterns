@@ -1,6 +1,6 @@
 # CartConnect-Unlocking-Buying-Patterns
 
-**CartConnect: Unlocking Buying Patterns using MBA**
+**CartConnect: Unlocking Buying Patterns using MBA(Market Basket Analysis)**
 
 **Objective:**
 
