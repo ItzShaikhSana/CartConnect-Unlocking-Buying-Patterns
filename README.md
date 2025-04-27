@@ -8,7 +8,7 @@ The objective of the CartConnect project is to perform Market Basket Analysis on
 
 **Summary:**
 
-CartConnect leverages the Apriori algorithm and association rule mining techniques to analyze transactional data from a grocery store. It identifies the most frequently bought item combinations and reveals valuable insights into shopping patterns. These insights can be used to enhance marketing strategies, bundle products efficiently, and improve customer satisfaction by ensuring high-demand products are always in stock. The project includes data preprocessing, EDA, model building, and visualization to support decision-making.
+CartConnect leverages the Apriori algorithm and association rule mining techniques to analyze transactional data from a grocery store. It identifies the most frequently bought item combinations and reveals valuable insights into shopping patterns. These insights can be used to enhance marketing strategies, bundle products efficiently, and improve customer satisfaction by ensuring high-demand products are always in stock. The project includes data preprocessing, EDA, and visualization to support decision-making.
 
 **Conclusion:**
 
