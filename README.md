@@ -4,7 +4,7 @@
 
 **Objective:**
 
-The objective of the CartConnect project is to perform Market Basket Analysis on grocery store transaction data to identify frequent itemsets and uncover meaningful product associations. The goal is to help retailers optimize inventory, improve product placement, and boost sales by understanding customer buying behavior.
+The objectiv of the CartConnect project is to perform Market Basket Analysis on grocery store transaction data to identify frequent itemsets and uncover meaningful product associations. The goal is to help retailers optimize inventory, improve product placement, and boost sales by understanding customer buying behavior.
 
 **Summary:**
 
